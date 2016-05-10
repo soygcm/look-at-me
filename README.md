@@ -5,7 +5,7 @@ Clases:
 
 Presentation
 
-  -slides: [Slide]
+  -slides: SlideGroup
   -backgrounds: [SlideGroup]
   -foregrounds: [SlideGroup]
   
